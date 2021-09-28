@@ -23,5 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
-/target/
+article-server/target/
+article-client/node_modules/
+
 *.iml

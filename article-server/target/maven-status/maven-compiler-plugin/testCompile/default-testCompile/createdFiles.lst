@@ -1,0 +1,5 @@
+com/westbrain/sandbox/jaxrs/exception/ExceptionModelTest.class
+com/westbrain/sandbox/jaxrs/service/AuthorServiceTest.class
+com/westbrain/sandbox/jaxrs/ApplicationCxfTest.class
+com/westbrain/sandbox/jaxrs/service/ArticleServiceTest.class
+com/westbrain/sandbox/jaxrs/provider/BadRequestExceptionMapperTest.class
